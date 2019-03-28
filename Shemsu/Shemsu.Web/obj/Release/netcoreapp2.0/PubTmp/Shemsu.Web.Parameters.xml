@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="ShemsuWeb20180608022003" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\l\.tynek\\Documents\\Visual\ Studio\ 2017\\Projects\\Shemsu\\Shemsu\.Web\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>
